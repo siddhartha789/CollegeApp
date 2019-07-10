@@ -1,0 +1,284 @@
+<resources>
+    <string name="app_name">Vtop_Lite</string>
+    <string-array name="Main">
+        <item>Timetable</item>
+        <item>Subjects</item>
+        <item>Faculty</item>
+        <item>Resources</item>
+        <item>Cgpa_Calculator</item>
+
+    </string-array>
+    <string-array name="Description">
+        <item> Get to know the classes,only a click away and get rid of fussy image </item>
+        <item> The Brief syllabus of every subject well organised only for you!</item>
+        <item> Contains the info about faculties their mobile number and their staff room no</item>
+        <item> Get all the study materials,extra info and previous question papers</item>
+        <item> Helps the student to compute his cgpa and make predictions for the same</item>
+
+    </string-array>
+    <string-array name="Week">
+        <item>MONDAY</item>
+        <item>TUESDAY</item>
+        <item>WEDNESDAY</item>
+        <item>THURSDAY</item>
+        <item>FRIDAY</item>
+        <item>SATURDAY</item>
+
+    </string-array>
+    <string-array name="Monday">
+        <item> Artificial Intelligence</item>
+        <item> Digital Logic Lab</item>
+        <item> Statistics Lab</item>
+        <item> Network and Communication</item>
+        <item> Statistics</item>
+        <item> Software engineering</item>
+    </string-array>
+    <string-array name="Tuesday">
+        <item> Software Lab</item>
+        <item> Artificial Intellegence</item>
+        <item> Statistics</item>
+        <item> Soft skills </item>
+        <item> Ethics and Values</item>
+        <item> Innoviative Project</item>
+
+
+    </string-array>
+    <string-array name="Wednesday">
+        <item> Statistics</item>
+        <item> Soft skills</item>
+        <item> Networks</item>
+        <item> Computer Architecture</item>
+        <item> Software Engineering</item>
+
+
+    </string-array>
+    <string-array name="Thursday">
+        <item>Networks</item>
+        <item>Software</item>
+        <item>Networks Lab</item>
+        <item>Computer Architecture</item>
+        <item>Soft skills</item>
+
+
+    </string-array>
+    <string-array name="Friday">
+        <item>Ethics and Values</item>
+        <item>Computer Architecture</item>
+        <item>Digital Logic</item>
+
+
+    </string-array>
+    <string-array name="Saturday">
+        <item>Guest Lecture</item>
+
+
+    </string-array>
+
+    <string-array name="time1">
+        <item> 8:00AM -8:50AM</item>
+        <item>9:00AM -10:30AM</item>
+        <item>11:30AM -1:00PM</item>
+        <item> 3:00PM -3:50PM</item>
+        <item> 4:00PM -4:50PM</item>
+        <item> 6:00PM -6:50PM</item>
+
+
+    </string-array>
+
+    <string-array name="time2">
+        <item> 9:00AM -10:30AM</item>
+        <item>11:00AM -11:50AM</item>
+        <item>  2:00PM -2:50PM</item>
+        <item>  3:00PM -3:50PM</item>
+        <item>  4:00PM -4:50PM</item>
+        <item>  5:00PM -5:50PM</item>
+
+
+    </string-array>
+
+    <string-array name="time3">
+        <item>11:00AM -11:50AM</item>
+        <item> 2:00PM -2:50PM</item>
+        <item> 4:00PM -4:50PM</item>
+        <item> 5:00PM -5:50PM</item>
+        <item> 6:00PM -6:50PM</item>
+
+
+    </string-array>
+
+    <string-array name="time4">
+        <item>11:00AM -11:50AM</item>
+        <item>  2:00PM -2:50PM</item>
+        <item>  3:00PM -4:30PM</item>
+        <item>  5:00PM -5:50PM</item>
+        <item>  6:00PM -6:50PM</item>
+
+    </string-array>
+
+    <string-array name="time5">
+        <item>10:00AM -10:50AM</item>
+        <item>11:00AM -11:50AM</item>
+        <item>  3:00PM -3:50PM</item>
+
+
+    </string-array>
+
+    <string-array name="time6">
+        <item>9:00AM -11:00AM</item>
+
+
+    </string-array>
+    <string-array name="Subjects">
+        <item> Artificial Intellegence</item>
+        <item> Digital Logic and Microprocessor</item>
+        <item> Statistics for Engineers </item>
+        <item> Networks and Communication</item>
+        <item> Software Engineering</item>
+        <item> Ethics and Values</item>
+        <item> Computer Architecture</item>
+        <item> Innoviative Projects </item>
+
+
+    </string-array>
+    <string-array name="Faculty">
+        <item>Ashwin Ganesan </item>
+        <item>Monica C </item>
+        <item>Rajkumar S </item>
+        <item>Natarajan P </item>
+        <item>Kavitha K </item>
+        <item>Rajkumar N </item>
+        <item>Dharmendra P </item>
+        <item>Tarun </item>
+        <item>V. Ramasubramanian </item>
+        <item>Padma Priya R </item>
+        <item>Pushpa P </item>
+        <item>Srivani A </item>
+        <item>John Paul Xavier </item>
+        <item>Rajarajan G </item>
+        <item>Delhi Babu </item>
+        <item>Raghavendra K </item>
+        <item>Aju D </item>
+        <item>Mythili N </item>
+        <item>S Lalitha </item>
+        <item>Vijaya K </item>
+        <item>Sujatha V </item>
+        <item>Saira Banu </item>
+        <item>Sharmila Banu </item>
+        <item>Surendra H </item>
+        <item>Harshitha B </item>
+        <item>Debi Prassana Accharjya </item>
+        <item>Archana H R </item>
+        <item>Ananda Kumar S </item>
+
+    </string-array>
+    <string-array name="loc1">
+        <item>SJT 501</item>
+        <item>SJT 119</item>
+        <item>SJT 116</item>
+        <item>SJT 708</item>
+        <item>SJT 102</item>
+        <item>SJT 501</item>
+
+
+    </string-array>
+    <string-array name="loc2">
+        <item>SJT 417</item>
+        <item>SJT 501</item>
+        <item>SJT 102</item>
+        <item>SJT 823</item>
+        <item>SMV 218</item>
+        <item>SJT 619</item>
+
+
+    </string-array>
+    <string-array name="loc3">
+        <item>SJT 102</item>
+        <item>SJT 823</item>
+        <item>SJT 708</item>
+        <item>SJT 710</item>
+        <item>SJT 501</item>
+
+
+    </string-array>
+    <string-array name="loc4">
+        <item>TT 425</item>
+
+
+
+    </string-array>
+    <string-array name="loc5">
+        <item>SMV 218</item>
+        <item>SJT 710</item>
+        <item>SJT G09</item>
+
+
+    </string-array>
+    <string-array name="loc6">
+        <item>MB 601</item>
+
+
+
+    </string-array>
+    <string-array name="Staff">
+        <item>SJT A01</item>
+        <item>SJT A02</item>
+        <item>SJT A03</item>
+        <item>SJT A04</item>
+        <item>SJT A05</item>
+        <item>SJT 619-A</item>
+        <item>SJT 619-B</item>
+        <item>SJT 619-C</item>
+        <item>SJT 619-D</item>
+        <item>SJT 619-E</item>
+        <item>SJT 619-F</item>
+        <item>SJT G-1</item>
+        <item>SJT G-2</item>
+        <item>SJT G-3</item>
+        <item>SJT G-4</item>
+        <item>SJT G-5</item>
+        <item>MB A-01</item>
+        <item>MB A-02</item>
+        <item>MB A-03</item>
+        <item>MB A-04</item>
+        <item>MB A-05</item>
+        <item>TT 423-A</item>
+        <item>TT 423-B</item>
+        <item>TT 423-C</item>
+        <item>TT 423-D</item>
+        <item>TT 423-E</item>
+        <item>TT 423-F</item>
+        <item>TT 423-G</item>
+
+    </string-array>
+    <string-array name="Designation">
+        <item>Assistant Professor </item>
+        <item>Selection Grade </item>
+        <item>Associate Professor </item>
+        <item>Selection Grade</item>
+        <item>Selection Grade </item>
+        <item>Professor </item>
+        <item>Associate Profesor </item>
+        <item>Assistant Professor </item>
+        <item>Assistant Professor </item>
+        <item>Selection Grade </item>
+        <item>Associate Professor </item>
+        <item>Associate Professor </item>
+        <item>Assistant Professor </item>
+        <item>Selection Grade </item>
+        <item> Associate Professor</item>
+        <item>Professor </item>
+        <item>Professor</item>
+        <item>Assistant Professor </item>
+        <item>Associate Professor </item>
+        <item>Selection Grade </item>
+        <item>Hod Cse </item>
+        <item>Associate Professor </item>
+        <item>Assistant Professor </item>
+        <item>Hod IT </item>
+        <item>Dean Cse </item>
+        <item>Associate Professor </item>
+        <item>Assistant Professor </item>
+        <item>Professor </item>
+
+    </string-array>
+</resources>
